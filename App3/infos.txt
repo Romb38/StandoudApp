@@ -2,6 +2,6 @@ name: isThatAnApp
 package: com.example.isthatanapp
 author: Romb38
 version: 2.0.0
-icon:  
+icon: https 
 infos_link: 
 download_link: https://github.com/Romb38/StandoudApp
