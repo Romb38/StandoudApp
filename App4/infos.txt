@@ -1,0 +1,6 @@
+1: App4
+2: com.example.app
+3: Romb38
+4: 1.1.0
+5: 
+6: https://github.com/Romb38/StandoudApp
