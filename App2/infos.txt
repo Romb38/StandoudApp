@@ -1,4 +1,4 @@
-1: DeviceManager
+1: DeviceManagers
 2: com.example.devicemanager
 3: Romb38
 4: 2.0.1
