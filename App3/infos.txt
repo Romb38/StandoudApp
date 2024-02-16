@@ -1,6 +1,7 @@
-1: isThatAnApp
-2: com.example.isthatanapp
-3: Romb38
-4: 2.0.0
-5: 
-6: https://github.com/Romb38/StandoudApp
+name: isThatAnApp
+package: com.example.isthatanapp
+author: Romb38
+version: 2.0.0
+icon : https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240215-ph-kls01-0023orig.jpg
+infos_link: 
+download_link: https://github.com/Romb38/StandoudApp
