@@ -1,7 +1,7 @@
 name: isThatAnApp
-package: com.example.isthatanapp
+package: com.afwsamples.testdpc
 author: Romb38
 version: 2.0.0
 icon: 
-infos_link: 
-download_link: https://github.com/Romb38/StandoudApp
+download_link: https://github.com/Romb38/StandoudApp/raw/main/test_apk.apk
+infos_link: https://github.com/Romb38/StandoudApp
