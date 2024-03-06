@@ -2,6 +2,6 @@ name: Standouda
 package: com.example.standouda
 author: Romb38
 version: 1.1.0
-icon : https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240215-ph-kls01-0023orig.jpg
+icon : https://raw.githubusercontent.com/Romb38/StandoudApp/main/infos_app/play_store_512.png
 download_link: https://github.com/Romb38/StandoudApp/raw/main/StandoudApp.apk
 infos_link: https://github.com/Romb38/StandoudApp
