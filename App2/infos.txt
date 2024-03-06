@@ -1,7 +1,0 @@
-name: DeviceManagers
-package: com.afwsamples.testdpc
-author: Romb38
-version: 2.0.1
-icon: https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240215-ph-kls01-0023orig.jpg
-download_link: https://github.com/Romb38/StandoudApp/raw/main/test_apk.apk
-infos_link: https://github.com/Romb38/StandoudApp
