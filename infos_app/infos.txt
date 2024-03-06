@@ -1,7 +1,7 @@
 name: Standouda
 package: com.example.standouda
 author: Romb38
-version: 1.1.1
+version: 1.1.2
 icon : https://raw.githubusercontent.com/Romb38/StandoudApp/main/infos_app/play_store_512.png
 download_link: https://github.com/Romb38/StandoudApp/raw/main/StandoudApp.apk
 infos_link: https://github.com/Romb38/StandoudApp
