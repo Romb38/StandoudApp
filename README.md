@@ -10,6 +10,10 @@ Pour télécharger l'application sur votre appreil, il suffit de télécharger l
 Une fois cela fait, cliquez sur l'icône de téléchargement puis sur installer. Et voilà !
 
 
+## Au lancement
+
+Au premier lancement, vous arriverez sur la page des paramètres qui vous demandera d'authoriser "Standouda" à installer des applis inconnues. Il est important de donner cette autorisation, car elle sert pour installer et gérer les autres applications disponibles.
+
 ## Auteur
 
 Romb38 (Projet sur 2 mois en M1 - Informatique)

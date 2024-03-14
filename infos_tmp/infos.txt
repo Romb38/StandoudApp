@@ -1,0 +1,7 @@
+name: Dice Roller
+package: com.example.diceroller
+author: AndroidStudio
+version: 1.1.1
+icon : 
+download_link: https://github.com/Romb38/StandoudApp/raw/main/diceroller.apk
+infos_link: https://github.com/Romb38/StandoudApp
