@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/Romb38/StandoudApp/main/infos_app/
 https://raw.githubusercontent.com/Romb38/StandoudApp/main/infos_tmp/
+https://raw.githubusercontent.com/Romb38/ProjectList/main/info_app/
